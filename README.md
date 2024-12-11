@@ -22,8 +22,6 @@ Utilize o comando abaixo para fazer o deploy dos arquivos gerados no diretório 
 
 ` npx angular-cli-ghpages --dir=docs/browser `
 
-Substitua [app-name] pelo nome da sua aplicação.
-
 ## Passo 4: Configurar o GitHub Pages
 *Vá para o repositório no GitHub que deseja publicar.
 Navegue até Settings > Pages.
