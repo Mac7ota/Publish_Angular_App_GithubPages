@@ -13,7 +13,7 @@ Primeiro, instale a ferramenta angular-cli-ghpages globalmente usando o npm:
 ## Passo 2: Build da Aplicação
 Em seguida, gere os arquivos de build da sua aplicação Angular com a configuração de produção e configure o caminho base para o seu repositório no GitHub Pages:
 
-` ng build --configuration production --base-href="/[your-repo-name]/" `
+` ng build --configuration production --base-href="/" `
 
 Substitua [your-repo-name] pelo nome do seu repositório no GitHub.
 
