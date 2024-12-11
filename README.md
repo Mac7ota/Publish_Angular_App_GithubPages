@@ -20,7 +20,7 @@ Substitua [your-repo-name] pelo nome do seu repositório no GitHub.
 ## Passo 3: Fazer o Deploy com angular-cli-ghpages
 Utilize o comando abaixo para fazer o deploy dos arquivos gerados no diretório dist para o GitHub Pages:
 
-` npx angular-cli-ghpages --dir=dist/[app-name] `
+` npx angular-cli-ghpages --dir=docs/browser `
 
 Substitua [app-name] pelo nome da sua aplicação.
 
